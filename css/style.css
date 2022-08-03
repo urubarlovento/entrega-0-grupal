@@ -1,4 +1,7 @@
-*{
-    padding: 0 0;
-    color-background: brown; 
-}
+* {
+    font-family: sans-serif;
+    background-color: brown;     
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+      }
